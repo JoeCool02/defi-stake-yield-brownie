@@ -1,0 +1,6 @@
+[
+  "tests/unit/test_token_farm.py::test_get_user_total_value",
+  "tests/unit/test_token_farm.py::test_issue_tokens",
+  "tests/unit/test_token_farm.py::test_set_price_feed_contract",
+  "tests/unit/test_token_farm.py::test_stake_tokens"
+]
